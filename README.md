@@ -62,7 +62,7 @@ The project follows the below pipeline:
 
 ---
 
-## 📈 Evaluation Metrics
+##📈 Evaluation Metrics
 - **MAE (Mean Absolute Error)**
 - **RMSE (Root Mean Squared Error)**
 - **R² Score**
@@ -88,10 +88,69 @@ The dataset contains historical cryptocurrency market data such as:
 
 ---
 
-## ✅ Conclusion
-This project demonstrates an end-to-end machine learning pipeline for cryptocurrency volatility prediction, including data preprocessing, feature engineering, model training, evaluation, and documentation.
+## 📊 Dataset
+The dataset used in this project is available in the `data/raw/` folder.
+It contains historical cryptocurrency price data used for volatility analysis.
 
 ---
 
-## 👤 Author
-**Shifa Zareen**
+## 🔄 Project Pipeline
+The complete workflow is illustrated in the pipeline diagram located in the `diagrams/` folder.
+
+**Pipeline Flow:**
+Raw Data → Data Cleaning → Feature Engineering → EDA → Model Training → Evaluation → Volatility Prediction
+
+---
+
+## 🚀 How to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Shifa012751/crypto-volatility-prediction.git
+
+
+---
+
+## 📊 Dataset
+The dataset used in this project is available in the `data/raw/` folder.
+It contains historical cryptocurrency price data used for volatility analysis.
+
+---
+
+## 🔄 Project Pipeline
+The complete workflow is illustrated in the pipeline diagram located in the `diagrams/` folder.
+
+**Pipeline Flow:**
+Raw Data → Data Cleaning → Feature Engineering → EDA → Model Training → Evaluation → Volatility Prediction
+
+---
+
+## 🚀 How to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Shifa012751/crypto-volatility-prediction.git
+
+---
+
+## 📊 Dataset
+The dataset used in this project is available in the `data/raw/` folder.
+It contains historical cryptocurrency price data used for volatility analysis.
+
+---
+
+## 🔄 Project Pipeline
+The complete workflow is illustrated in the pipeline diagram located in the `diagrams/` folder.
+
+**Pipeline Flow:**
+Raw Data → Data Cleaning → Feature Engineering → EDA → Model Training → Evaluation → Volatility Prediction
+
+---
+
+## 🚀 How to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Shifa012751/crypto-volatility-prediction.git
+---
+## AUTHOR
+*SHIFA ZAREEN*
+
+
