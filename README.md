@@ -10,7 +10,7 @@ The goal is to analyze price behavior, engineer meaningful features, and build p
 crypto-volatility-prediction/
 │
 ├── data/
-│ ├── raw/ # Raw data (not uploaded due to size)
+│ ├── raw/ # Raw data 
 │ └── processed/ # Processed data (generated during preprocessing)
 │
 ├── notebooks/
@@ -77,8 +77,6 @@ The dataset contains historical cryptocurrency market data such as:
 - Low price
 - Volume
 
-📌 Dataset not uploaded due to size constraints.  
-Source: Public cryptocurrency market data (e.g., Kaggle / Yahoo Finance).
 
 ---
 
@@ -87,7 +85,6 @@ Source: Public cryptocurrency market data (e.g., Kaggle / Yahoo Finance).
 - **LLD**: Low Level Design  
 - **Final Report**: Complete project explanation  
 
-All documents are available in the `reports/` folder.
 
 ---
 
